@@ -16,15 +16,15 @@
     <a href="exercicio7.php">Exercício 7 - ÁREA DO RETÂNGULO</a><br>
     <a href="exercicio8.php">Exercício 8 - RAIO DO CÍRCULO</a><br>
     <a href="exercicio9.php">Exercício 9 - PERÍMETRO DO RETÂNGULO</a><br>
-    <a href="exercicio10.php">Exercício 10 - MÉDIA DAS NOTAS</a><br>
-    <a href="exercicio11.php">Exercício 11 - MÉDIA DAS NOTAS</a><br>
-    <a href="exercicio12.php">Exercício 12 - MÉDIA DAS NOTAS</a><br>
-    <a href="exercicio13.php">Exercício 13 - MÉDIA DAS NOTAS</a><br>
-    <a href="exercicio14.php">Exercício 14 - MÉDIA DAS NOTAS</a><br>
-    <a href="exercicio15.php">Exercício 15 - MÉDIA DAS NOTAS</a><br>
-    <a href="exercicio16.php">Exercício 16 - MÉDIA DAS NOTAS</a><br>
-    <a href="exercicio17.php">Exercício 17 - MÉDIA DAS NOTAS</a><br>
-    <a href="exercicio18.php">Exercício 18 - MÉDIA DAS NOTAS</a><br>
-    <a href="exercicio19.php">Exercício 19 - MÉDIA DAS NOTAS</a><br>
+    <a href="exercicio10.php">Exercício 10 - PERÍMETRO DO CÍRCULO</a><br>
+    <a href="exercicio11.php">Exercício 11 - BASE E EXPOENTE</a><br>
+    <a href="exercicio12.php">Exercício 12 - METROS PARA CENTÍMETROS</a><br>
+    <a href="exercicio13.php">Exercício 13 - QUILÔMETROS PARA MILHAS</a><br>
+    <a href="exercicio14.php">Exercício 14 - CÁLCULO DE IMC</a><br>
+    <a href="exercicio15.php">Exercício 15 - PREÇO COM DESCONTO</a><br>
+    <a href="exercicio16.php">Exercício 16 - JUROS SIMPLES</a><br>
+    <a href="exercicio17.php">Exercício 17 - JUROS COMPOSTOS</a><br>
+    <a href="exercicio18.php">Exercício 18 - CONVERTER DIAS</a><br>
+    <a href="exercicio19.php">Exercício 19 - VELOCIDADE MÉDIA</a><br>
 </body>
 </html>
