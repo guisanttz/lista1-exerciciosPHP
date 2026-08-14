@@ -15,6 +15,7 @@ echo "$base elevado a $expoente é: $resultado";
     <title>Document</title>
 </head>
 <body>
+    <br>
     <a href="index.php">RETORNAR AO INÍCIO</a>
 </body>
 </html>
