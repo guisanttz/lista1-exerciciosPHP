@@ -9,9 +9,9 @@
     <h1>EXERCÍCIO 7 - ÁREA DO RETÂNGULO</h1>
     <form action="resultado7.php" method="post">
         <label for="largura">Insira a largura do retângulo: </label>
-        <input type="text" name="largura" id="largura"><br><br>
+        <input type="text" name="largura" id="largura" required><br><br>
         <label for="altura">Insira a altura do retângulo: </label>
-        <input type="text" name="altura" id="altura"><br>
+        <input type="text" name="altura" id="altura" required><br>
         <button type="submit">Enviar</button>
     </form>
 </body>

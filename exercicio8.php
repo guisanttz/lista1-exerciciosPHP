@@ -9,7 +9,7 @@
     <h1>EXERCÍCIO 8 - RAIO DO CÍRCULO</h1>
     <form action="resultado8.php" method="post">
         <label for="raio">Insira o raio do círculo: </label>
-        <input type="text" name="raio" id="raio"><br>
+        <input type="text" name="raio" id="raio" required><br>
         <button type="submit">Enviar</button>
     </form>
 </body>

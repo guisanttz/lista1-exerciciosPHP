@@ -9,7 +9,7 @@
     <h1>EXERCÍCIO 10 - PERÍMETRO DO RETÂNGULO</h1>
     <form action="resultado10.php" method="post">
         <label for="raio">Insira o raio do círculo: </label>
-        <input type="text" name="raio" id="raio"><br>
+        <input type="text" name="raio" id="raio" required><br>
         <button type="submit">Enviar</button>
     </form>
 </body>

@@ -9,7 +9,7 @@
     <h1>EXERCÍCIO 6 - FAHRENHEIT PARA CELSIUS</h1>
     <form action="resultado6.php" method="post">
         <label for="tempFahr">Insira a temperatura em graus Fahrenheit: </label>
-        <input type="text" name="tempFahr" id="tempFahr"><br>
+        <input type="text" name="tempFahr" id="tempFahr" required><br>
         <button type="submit">Enviar</button>
     </form>
 </body>

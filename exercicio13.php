@@ -9,7 +9,7 @@
     <h1>EXERCÍCIO 13 - QUILÔMETROS PARA MILHAS</h1>
     <form action="resultado13.php" method="post">
         <label for="km">Insira o valor em quilômetros: </label>
-        <input type="text" name="km" id="km"><br>
+        <input type="text" name="km" id="km" required><br>
         <button type="submit">Enviar</button>
     </form>
 </body>

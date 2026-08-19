@@ -6,10 +6,10 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>EXERCÍCIO 5 - CELSIUS E FAHRENHEIT</h1>
-    <form action="resultado5.php" method="post">
-        <label for="tempCelsius">Insira uma temperatura em graus Celsius: </label>
-        <input type="number" id="tempCelsius" name="tempCelsius" required>
+    <h1>EXERCÍCIO 18 - CONVERTER DIAS</h1>
+    <form action="resultado18.php" method="post">
+        <label for="dias">Insira a quantidade de dias:</label>
+        <input type="number" name="dias" id="dias" required>
         <br>
         <button type="submit">Enviar</button>
     </form>

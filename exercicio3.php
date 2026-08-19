@@ -9,7 +9,7 @@
     <h1>Exercício 3 - MULTIPLICAÇÃO</h1>
     <form action="resultado3.php" method="post">
         <label for="valor1">Informe o primeiro valor: </label>
-        <input type="number" name="valor1" id="valor1">
+        <input type="number" name="valor1" id="valor1" required>
         <br><br>
         <label for="valor2">Informe o segundo valor: </label>
         <input type="number" name="valor2" id="valor2">
